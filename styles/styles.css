@@ -19,4 +19,6 @@ body {
 
 #hand {
     margin: 10px 0px 0px 0px;
+    transform-origin: top;
+    transform: rotate(180deg);
 }
