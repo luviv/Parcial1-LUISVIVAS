@@ -17,8 +17,11 @@ body {
     margin: -230px 0px  0px -285px;
 }
 
-#hand {
+.hand {
+    position: relative;
+    transform: rotate(0deg);
     margin: 10px 0px 0px 0px;
     transform-origin: top;
-    transform: rotate(180deg);
+    transition: transform .4s ease;
+    
 }
