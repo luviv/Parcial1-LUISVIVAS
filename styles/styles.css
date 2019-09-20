@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.radial {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#fondo {
+    width: 40%;
+    position: absolute;
+    margin: -230px 0px  0px -285px;
+}
+
+#hand {
+    margin: 10px 0px 0px 0px;
+}
